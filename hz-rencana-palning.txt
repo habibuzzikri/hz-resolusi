@@ -1,9 +1,6 @@
 rencna soft skill
 -english
 -graphic desain
--ui/ux
--c
--d
--e
- -figma
+-ui
+
  -adobe
