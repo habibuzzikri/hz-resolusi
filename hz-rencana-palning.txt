@@ -4,5 +4,5 @@ rencna soft skill
 -ui/ux
 -a
 -b
- -figma
+
  -adobe
